@@ -17,3 +17,7 @@ shove [mrdoob/blinkftw](https://github.com/mrdoob/blinkftw) into a component
 ```html
 <blink>Oh hai!</blink>
 ```
+
+## Demo
+
+[Demo](http://mrdoob.github.io/blinkftw/)
